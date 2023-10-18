@@ -7,7 +7,7 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
-COPY ["H1-Blazor/H1-Blazor.csproj", "H1-Blazor/"]
+COPY ["H1-Blazor.csproj", "H1-Blazor/"]
 RUN dotnet restore "H1-Blazor/H1-Blazor.csproj"
 COPY . .
 WORKDIR "/src/H1-Blazor"
