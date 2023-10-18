@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b4A5GNqvmC+q1imlVEXcQGIlTb8gM7qfEmEtzoUET1+uS2d98H3SJc5dxFCHyFXEPE0fWzgZO7JUS3hSNDUAKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MAGS\\Documents\\GitHub\\H1BlazorRailway\\H1-Blazor\\H1-Blazor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MAGS\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
